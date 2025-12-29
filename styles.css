@@ -24,7 +24,6 @@ li {
   padding: 0;
 }
 
-/* Центрируем всё по-честному */
 body {
   height: 100vh;
   display: flex;
